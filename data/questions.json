@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "choices": ["Paris","Lyon","Marseille","Nice"],
+        "correct": 0
+    },
+    {
+        "question": "Quelle est la couleur du ciel ?",
+        "choices": ["Rouge","Bleu","Vert","Jaune"],
+        "correct": 1
+    }
+]
